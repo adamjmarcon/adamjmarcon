@@ -3,9 +3,11 @@
 Always excited to take on my next project! 
 
 Projects
+
 Graduated from TripleTen Business Intelligence Analyst apprenticeship, with these comprehensive projects.
 
 Skills and Expertise
+
 Programming Languages: SQL, HTML, Python.
 
 Advanced Sreadsheets: Google Sheets, Excel.
@@ -13,6 +15,7 @@ Advanced Sreadsheets: Google Sheets, Excel.
 Presentation/Visuals: Tableau, G-Suite, Power BI, Loom Video.
 
 Education
+
 Business Intelligence Analyst Apprenticeship | 6 Months (Intensive) | 2024
 BA in English Lit & Classics | University of New Hampshire | 2015 - 2019
 
