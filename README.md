@@ -17,6 +17,7 @@ Graduated from TripleTen Business Intelligence Analyst apprenticeship, with thes
 **Education**
 
 Business Intelligence Analyst Apprenticeship | 6 Months (Intensive) | 2024
+
 BA in English Lit & Classics | University of New Hampshire | 2015 - 2019
 
 
