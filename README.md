@@ -2,7 +2,7 @@
 <p align='left'>I'm a Business Intelligence Analyst with over three years experience in remote sales and content writing. I've also personally published a commercial novel and written several others. Proud to be using my creativity as my unique edge in the world of analytics. I'm highly skilled in necessary tech stacks such as G-Suite, SQL, Python, Power BI, Tableau, and Loom. Capable of translating complex data sets into concise and comprehensive presentations, and help stakehodlers make data driven decisions.  
 Always excited to take on my next project! 
 
-</p><p align='left'> You can view my resume [Here(https://docs.google.com/document/d/190xJeFlw9NvdP7jwmYnnp_hHrW9TnF3ZEHZsF314D90/edit)]
+</p><p align='left'> You can view my resume [https://docs.google.com/document/d/190xJeFlw9NvdP7jwmYnnp_hHrW9TnF3ZEHZsF314D90/edit]
 
  
   
