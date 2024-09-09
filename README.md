@@ -4,7 +4,7 @@ Always excited to take on my next project!
 
 **Projects**
 
-Graduated from TripleTen Business Intelligence Analyst apprenticeship, with these comprehensive projects.
+Graduated from TripleTen Business Intelligence Analyst apprenticeship, with these comprehensive [projects](https://github.com/adamjmarcon/Data_Projects_TripleTen#).
 
 **Skills and Expertise**
 
